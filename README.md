@@ -3,7 +3,6 @@
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MATLAB-%234B5562?style=for-the-badge&logo=matrix&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ActionScript-%23FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ## Tools and Platforms
 ![Static Badge](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
