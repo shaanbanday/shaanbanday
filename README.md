@@ -9,15 +9,6 @@
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23474747?style=for-the-badge&logo=github&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Microsoft%20Excel-%23217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Microsoft%20Visio-%233955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Static Badge](https://img.shields.io/badge/IBM%20Maximo-%23052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Google%20Sites-%234285F4?style=for-the-badge&logo=google&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Microsoft%20Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Zoom-%230B5CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Microsoft%20OneDrive-%230078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Google%20Drive-%234285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ## Computer-Aided Design Software
 ![Static Badge](https://img.shields.io/badge/SolidWorks-%23EE2722?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
