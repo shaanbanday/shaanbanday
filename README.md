@@ -17,3 +17,4 @@
 ![Static Badge](https://img.shields.io/badge/Autodesk%20AutoCad-%23E51050?style=for-the-badge&logo=autocad&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Autodesk%20Tinkercad-%231477D1?style=for-the-badge&logo=tinkercad)
 ![Static Badge](https://img.shields.io/badge/COMSOL-%23368CCB?style=for-the-badge&logo=comsol&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Ansys-%23FF8800?style=for-the-badge&logo=ansys&logoColor=white)
