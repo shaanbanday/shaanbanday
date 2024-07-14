@@ -8,7 +8,6 @@
 ![Static Badge](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub-%23474747?style=for-the-badge&logo=github&logoColor=white)
 
 ## Computer-Aided Design Software
 ![Static Badge](https://img.shields.io/badge/SolidWorks-%23EE2722?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
