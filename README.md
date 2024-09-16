@@ -1,3 +1,12 @@
+👋 Hey there, I'm Shaan, a third-year Mechanical Engineering Student at the Univesity of Waterloo. I participated in Hack the North 2024 and have been coding since high school.
+
+Some of my key areas of interest include:
+- 🌡️ Thermal Engineering
+- ⚛️ Fusion Energy and SMRs
+- 🏎️ Formula 1
+- 🧩 3D-Printing
+- 🍁 Innovations in Canadian Tech
+
 ## Programming Languages
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-%23F8981D?style=for-the-badge&logo=oracle&logoColor=white)
