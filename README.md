@@ -1,4 +1,5 @@
 ## Programming Languages
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-%23F8981D?style=for-the-badge&logo=oracle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -6,8 +7,8 @@
 
 ## Tools and Platforms
 ![Static Badge](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=vscodium&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ## Computer-Aided Design Software
 ![Static Badge](https://img.shields.io/badge/SolidWorks-%23EE2722?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
