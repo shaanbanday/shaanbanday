@@ -18,8 +18,12 @@ Some of my key areas of interest include:
 ![Static Badge](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Abobe%20InDesign-%23FF3366?style=for-the-badge&logo=adobe&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Google%20Sites-%237248B9?style=for-the-badge&logo=google&logoColor=white)
 
-## Computer-Aided Design Software
+## Computer-Aided Design and Finite Element Analysis Software
 ![Static Badge](https://img.shields.io/badge/SolidWorks-%23EE2722?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Autodesk%20Inventor-%23DBAF06?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Autodesk%20Fusion%20360-%23FE6902?style=for-the-badge&logo=autodesk)
@@ -27,3 +31,4 @@ Some of my key areas of interest include:
 ![Static Badge](https://img.shields.io/badge/Autodesk%20Tinkercad-%231477D1?style=for-the-badge&logo=tinkercad)
 ![Static Badge](https://img.shields.io/badge/COMSOL-%23368CCB?style=for-the-badge&logo=comsol&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Ansys-%23FF8800?style=for-the-badge&logo=ansys&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Abaqus%20CAE-%23009C94?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
