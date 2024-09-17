@@ -7,6 +7,8 @@ Some of my key areas of interest include:
 - 🧩 3D-Printing
 - 🍁 Innovations in Canadian Tech
 
+Feel free to check out my website at www.shaanbanday.com
+
 ## Programming Languages
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-%23F8981D?style=for-the-badge&logo=oracle&logoColor=white)
