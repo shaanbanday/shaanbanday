@@ -26,7 +26,6 @@ Feel free to check out my website at www.shaanbanday.com
 ![Static Badge](https://img.shields.io/badge/Autodesk%20Inventor-%23DBAF06?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Autodesk%20Fusion%20360-%23FE6902?style=for-the-badge&logo=autodesk)
 ![Static Badge](https://img.shields.io/badge/Autodesk%20AutoCad-%23E51050?style=for-the-badge&logo=autocad&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Autodesk%20Tinkercad-%231477D1?style=for-the-badge&logo=tinkercad)
 ![Static Badge](https://img.shields.io/badge/COMSOL-%23368CCB?style=for-the-badge&logo=comsol&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Ansys-%23FF8800?style=for-the-badge&logo=ansys&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Abaqus%20CAE-%23009C94?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
