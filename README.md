@@ -1,11 +1,10 @@
-👋 Hey there, I'm Shaan, a third-year Mechanical Engineering Student at the Univesity of Waterloo. I participated in Hack the North 2024 and have been coding since high school.
+👋 Hey there, I'm Shaan, a third-year Mechanical Engineering Student at the Univesity of Waterloo. I participated in Hack the North 2024 and have been coding since high school. For the most part, I just code for fun because we all know that software "engineering" isn't real engineering.
 
-Some of my key areas of interest include:
+Anyways, some of my key areas of interest include:
 - 🌡️ Thermal Engineering
 - ⚛️ Fusion Energy and SMRs
 - 🏎️ Formula 1
 - 🧩 3D-Printing
-- 🍁 Innovations in Canadian Tech
 
 Feel free to check out my website at www.shaanbanday.com
 
