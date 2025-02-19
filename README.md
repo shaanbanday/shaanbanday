@@ -15,7 +15,7 @@ Feel free to check out my website at www.shaanbanday.com
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MATLAB-%234B5562?style=for-the-badge&logo=matrix&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaanbanday&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaanbanday&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools and Platforms
 ![Static Badge](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
