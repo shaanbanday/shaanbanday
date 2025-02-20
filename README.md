@@ -9,7 +9,7 @@ Anyways, some of my key areas of interest include:
 Feel free to check out my website at www.shaanbanday.com
 
 ## Programming Languages
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=#ffde57)
 ![Static Badge](https://img.shields.io/badge/Java-%23F8981D?style=for-the-badge&logo=oracle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
