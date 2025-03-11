@@ -16,7 +16,7 @@ Feel free to check out my website at www.shaanbanday.com
 ![Static Badge](https://img.shields.io/badge/MATLAB-%234B5562?style=for-the-badge&logo=matrix&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaanbanday&layout=pie&hide=m&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaanbanday&layout=pie&theme=vue)
 
 ## Tools and Platforms
 ![Static Badge](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
