@@ -14,9 +14,6 @@ Feel free to check out my website at www.shaanbanday.com
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=ffde57)
 ![Static Badge](https://img.shields.io/badge/MATLAB-%234B5562?style=for-the-badge&logo=matrix&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Assembly-%23007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaanbanday&layout=pie&hide=c&theme=vue)
 
