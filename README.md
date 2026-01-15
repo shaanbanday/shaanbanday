@@ -3,4 +3,4 @@
 Feel free to check out my website: www.shaanbanday.com
 
 ## Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaanbanday&layout=pie&langs_count=9&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaanbanday&layout=pie&langs_count=9)
